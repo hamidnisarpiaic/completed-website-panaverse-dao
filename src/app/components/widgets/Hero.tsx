@@ -1,7 +1,6 @@
 "use client"
 import Wrapper from "../shared/Wrapper";
 import HeroPoster from '@/app/assets/images/hero.png';
-import HeroPoster2 from '@/app/assets/images/hero.png'
 import Image from "next/image";
 import Button from "../shared/Button";
 import Link from 'next/link'
