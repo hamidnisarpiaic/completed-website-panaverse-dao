@@ -1,4 +1,4 @@
-import Wrapper from '../shared/Wrapper';
+import Wrapper from '@/app/components/shared/Wrapper';
 import Outcome from '@/app/assets/images/outcome-poster.webp';
 import Image from 'next/image';
 // I assumed 'icons' is not used in the code
